@@ -25,5 +25,5 @@ You can add itens to cart.
 ## :star: PrintScren
 
 <p align="center">
-  <img alt="main_screen" src=".images/main.png" width="200px">
+  <img alt="main_screen" src=".images/main.png" width="800px">
 </p>
